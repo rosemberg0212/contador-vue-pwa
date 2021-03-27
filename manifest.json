@@ -1,0 +1,44 @@
+{
+    "name": "Contador APP Vue",
+    "short_name": "Contador Vue",
+    "description": "Contador App Vue es una aplicacion que forma parte del curso de Vue 3 desde cero",
+    "background_color": "#5A4D99",
+    "theme_color": "#6AC266",
+    "start_url": "./?umt_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "icons": [
+        {
+          "src": "./img/icon32.png",
+          "type": "image/png",
+          "sizes": "32x32"
+        },
+      {
+        "src": "./img/icon64.png",
+        "type": "image/png",
+        "sizes": "64x64"
+      },
+      {
+        "src": "./img/icon128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "./img/icon256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "./img/icon502.png",
+        "type": "image/png",
+        "sizes": "502x502"
+      },
+      {
+        "src": "./img/icon1024.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+      }
+    ]
+}
